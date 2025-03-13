@@ -1,4 +1,4 @@
-# FastLane Frontrunner Bot PYTHON (Re-Write)
+# FastLane Frontrunner Bot PYTHON
 
 💡We also have a Golang version of the bot [Here](https://github.com/FastLane-Labs/break-monad-frontrunner-bot)
 
